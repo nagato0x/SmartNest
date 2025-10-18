@@ -20,7 +20,7 @@ const Hero = ({ onSearch }: { onSearch: (searchData: any) => void }) => {
           <div className="inline-flex items-center bg-white/10 backdrop-blur-sm rounded-full px-6 py-2 mb-8">
             <BookOpen className="w-5 h-5 text-yellow-400 mr-2" />
             <span className="text-white/90 font-medium">
-              Trusted by 5,000+ students
+              Find Your Next University Home!
             </span>
           </div>
 

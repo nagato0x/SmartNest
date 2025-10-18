@@ -96,7 +96,7 @@ const Register = () => {
               <UserPlus className="w-8 h-8 text-white" />
             </div>
             <CardTitle className="text-3xl font-bold text-gray-900 mb-2">
-              Join MernHolidays
+              Join Us
             </CardTitle>
             <CardDescription className="text-gray-600">
               Create your account to start booking
