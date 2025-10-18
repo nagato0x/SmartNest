@@ -1,0 +1,18 @@
+# Dependency directories
+node_modules/
+hotel-booking-backend/node_modules
+hotel-booking-frontend/node_modules
+
+# Environment Variables (CRITICAL for security)
+.env
+hotel-booking-backend/.env
+hotel-booking-frontend/.env
+
+# Build outputs
+dist/
+hotel-booking-backend/dist/
+hotel-booking-frontend/dist/
+
+# Other ignore files
+npm-debug.log
+.DS_Store
