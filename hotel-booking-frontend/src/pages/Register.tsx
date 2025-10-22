@@ -12,7 +12,7 @@ import {
   User,
   UserPlus,
   Sparkles,
-  CheckCircle,
+
 } from "lucide-react";
 import { useState } from "react";
 import { Button } from "../components/ui/button";
