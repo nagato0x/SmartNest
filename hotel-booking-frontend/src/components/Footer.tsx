@@ -81,7 +81,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-3">
                 <MapPin className="w-5 h-5 text-primary-300" />
-                <span className="text-gray-300">University Rd, City Campus</span>
+                <span className="text-gray-300">Ariviyal Nagar, Kilinochchi</span>
               </div>
             </div>
           </div>
